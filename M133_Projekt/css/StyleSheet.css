@@ -1,0 +1,18 @@
+﻿header {
+    text-align: center;
+    
+    font-family: monospace;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+#dorf {
+    background-color: orange;
+    color: white;
+}
+
+#bbzw {
+    background-color: white;
+    color: orange;
+}
+
